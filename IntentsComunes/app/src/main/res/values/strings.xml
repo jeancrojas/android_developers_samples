@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsComunes</string>
+    <string name="title">Intents Comunes</string>
+    <string name="sectionAlarm">Crear una alarma:</string>
+</resources>
